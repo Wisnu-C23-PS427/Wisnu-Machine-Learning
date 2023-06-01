@@ -1,0 +1,401 @@
+Pemandu_ID,Nama_Pemandu,Kemampuan_Bahasa,Umur,Jenis_Kelamin,Tempat,Pendidikan_Terakhir,Pekerjaan,Rating
+PMD000,Unjani Aryani,Mandarin,36,Perempuan,Bandung,SD,Pedagang,5
+PMD001,Mutia Suryatmi,Mandarin,35,Perempuan,Jakarta,SMP,PNS,2
+PMD002,Cinthia Hartati,Inggris,34,Perempuan,Bandung,SMP,Guru,4
+PMD003,Yono Gunarto,Jepang,34,Laki-laki,Bandung,SMP,Pedagang,1
+PMD004,Harsana Sitorus,Mandarin,25,Laki-laki,Maluku,SD,Wiraswasta,2
+PMD005,Nyana Lazuardi,Inggris,23,Laki-laki,Samarinda,SD,Dokter,3
+PMD006,Nalar Wulandari,Mandarin,23,Laki-laki,Kota Yogyakarta,S2,Wiraswasta,4
+PMD007,Kamaria Kuswandari,Mandarin,21,Perempuan,Surabaya,SMP,Pedagang,1
+PMD008,Ani Pradana,Jepang,22,Perempuan,Jakarta,S1,Wiraswasta,1
+PMD009,"Joko Natsir, S.Psi",Mandarin,34,Perempuan,Surabaya,S2,Guru,2
+PMD010,Ajeng Hastuti,Mandarin,32,Perempuan,Surabaya,SMP,Guru,3
+PMD011,Aswani Irawan,Inggris,35,Laki-laki,Aceh,SMP,Dokter,5
+PMD012,Ifa Pratiwi,Inggris,31,Perempuan,Aceh,SMA,Pengusaha,5
+PMD013,Jane Mandasari,Inggris,28,Perempuan,Aceh,SD,Dokter,3
+PMD014,Laksana Kurniawan,Inggris,21,Laki-laki,Aceh,SD,Pedagang,1
+PMD015,"Opan Uyainah, S.Psi",Inggris,18,Perempuan,Bandung,S1,Pengusaha,1
+PMD016,Maya Safitri,Jepang,34,Perempuan,Makassar,SMP,Pengusaha,5
+PMD017,"Tgk. Devi Palastri, S.E.I",Jepang,19,Perempuan,Bandung,S2,Dokter,4
+PMD018,Bagus Megantara,Mandarin,29,Laki-laki,Kota Yogyakarta,SMA,Dokter,1
+PMD019,Wardaya Latupono,Jepang,23,Perempuan,Samarinda,S2,Wartawan,3
+PMD020,Raisa Dongoran,Mandarin,18,Perempuan,Samarinda,S1,Wartawan,5
+PMD021,Aris Firmansyah,Mandarin,19,Laki-laki,Makassar,SD,Wiraswasta,1
+PMD022,Reksa Kurniawan,Mandarin,26,Perempuan,Jakarta,S2,Wartawan,5
+PMD023,Kasiran Habibi,Jepang,26,Laki-laki,Nusa Tenggara Timur,SMP,Pengusaha,5
+PMD024,Unjani Wulandari,Inggris,33,Perempuan,Kota Yogyakarta,SMP,Dokter,3
+PMD025,Gandi Suryono,Inggris,23,Laki-laki,Aceh,SMA,Dokter,4
+PMD026,"Gasti Anggriawan, S.Psi",Jepang,27,Laki-laki,Jakarta,S2,PNS,5
+PMD027,Cici Nainggolan,Mandarin,31,Laki-laki,Aceh,S1,Wartawan,3
+PMD028,Restu Hassanah,Inggris,27,Perempuan,Aceh,S1,Dokter,4
+PMD029,Jatmiko Suwarno,Jepang,32,Laki-laki,Nusa Tenggara Timur,SMP,Dokter,5
+PMD030,Raharja Widodo,Inggris,19,Laki-laki,Sukabumi,SMP,Guru,5
+PMD031,Michelle Hassanah,Mandarin,25,Perempuan,Aceh,SMP,Pedagang,5
+PMD032,Perkasa Kuswoyo,Inggris,38,Laki-laki,Makassar,SMP,Guru,1
+PMD033,Jaga Gunarto,Mandarin,30,Laki-laki,Sukabumi,SMA,PNS,1
+PMD034,Hamzah Mulyani,Inggris,32,Perempuan,Surabaya,S1,PNS,3
+PMD035,Keisha Oktaviani,Jepang,19,Perempuan,Nusa Tenggara Timur,SMA,Pengusaha,5
+PMD036,Zamira Wahyuni,Inggris,24,Perempuan,Maluku,SMA,Pedagang,3
+PMD037,Puti Nuraini,Inggris,20,Perempuan,Surabaya,SMA,Pedagang,4
+PMD038,"T. Jaka Purwanti, M.Kom.",Mandarin,31,Laki-laki,Makassar,S2,Wartawan,2
+PMD039,Embuh Latupono,Mandarin,37,Laki-laki,Jakarta,SD,Dokter,5
+PMD040,Raina Pertiwi,Inggris,21,Laki-laki,Aceh,S1,Dokter,1
+PMD041,Kala Maheswara,Mandarin,21,Laki-laki,Nusa Tenggara Timur,SMP,Wartawan,2
+PMD042,Harjaya Marpaung,Mandarin,24,Laki-laki,Sukabumi,SMA,Pengusaha,3
+PMD043,Mitra Saefullah,Inggris,29,Laki-laki,Maluku,S1,Wiraswasta,5
+PMD044,"Prayitna Wahyuni, S.T.",Inggris,20,Laki-laki,Aceh,S1,Pengusaha,2
+PMD045,Bala Hutasoit,Mandarin,37,Laki-laki,Surabaya,S2,Dokter,5
+PMD046,Anastasia Hassanah,Jepang,39,Perempuan,Kota Yogyakarta,SMP,Pengusaha,2
+PMD047,Ganda Wijaya,Mandarin,38,Laki-laki,Maluku,SMA,Wiraswasta,2
+PMD048,Gilang Sinaga,Inggris,37,Laki-laki,Samarinda,SD,Pengusaha,2
+PMD049,"Oman Santoso, S.Pd",Inggris,39,Laki-laki,Samarinda,S2,Pengusaha,4
+PMD050,Tasdik Farida,Jepang,18,Perempuan,Bali,S2,Pengusaha,5
+PMD051,Julia Utami,Inggris,39,Perempuan,Sukabumi,SD,Wiraswasta,2
+PMD052,Cakrabuana Megantara,Jepang,37,Laki-laki,Kota Yogyakarta,SD,PNS,2
+PMD053,Capa Samosir,Inggris,18,Laki-laki,Sukabumi,SMA,Guru,4
+PMD054,Yani Novitasari,Mandarin,22,Perempuan,Sukabumi,SMA,Pedagang,5
+PMD055,Cagak Nugroho,Inggris,17,Laki-laki,Sukabumi,SD,Wiraswasta,1
+PMD056,Tira Mandasari,Jepang,20,Perempuan,Aceh,SMA,Pedagang,2
+PMD057,Dasa Suartini,Jepang,36,Perempuan,Jakarta,S1,Wiraswasta,1
+PMD058,Kuncara Kusumo,Inggris,31,Laki-laki,Makassar,SMA,Wartawan,3
+PMD059,Ade Purwanti,Mandarin,24,Perempuan,Makassar,SMA,Wiraswasta,3
+PMD060,Paramita Usada,Mandarin,31,Perempuan,Sukabumi,SD,Wartawan,1
+PMD061,Sadina Usada,Mandarin,40,Perempuan,Samarinda,SD,Guru,4
+PMD062,Lintang Narpati,Inggris,23,Perempuan,Surabaya,S2,PNS,3
+PMD063,Rama Irawan,Inggris,33,Laki-laki,Bandung,SMA,Guru,2
+PMD064,Johan Simbolon,Mandarin,40,Laki-laki,Sukabumi,SD,Wiraswasta,4
+PMD065,Gangsa Haryanto,Inggris,17,Laki-laki,Sukabumi,SMP,Guru,4
+PMD066,"R.A. Padmi Widiastuti, S.H.",Mandarin,18,Perempuan,Kota Yogyakarta,S1,Wiraswasta,2
+PMD067,Marwata Kuswoyo,Mandarin,35,Laki-laki,Kota Yogyakarta,SMP,Pedagang,4
+PMD068,Lukman Situmorang,Inggris,34,Laki-laki,Maluku,SD,Pengusaha,3
+PMD069,Tgk. Kayla Pranowo,Mandarin,22,Laki-laki,Bali,S1,Pengusaha,4
+PMD070,"Hj. Hana Winarno, S.I.Kom",Jepang,19,Perempuan,Maluku,S1,Pengusaha,2
+PMD071,Hasim Nasyiah,Jepang,30,Perempuan,Samarinda,S1,Wartawan,5
+PMD072,Shania Yolanda,Jepang,34,Perempuan,Bali,SMA,Wiraswasta,4
+PMD073,Hamima Hariyah,Mandarin,37,Perempuan,Bali,SD,Pedagang,2
+PMD074,Siska Anggraini,Mandarin,28,Perempuan,Samarinda,SD,Wartawan,4
+PMD075,Azalea Wahyuni,Inggris,24,Perempuan,Aceh,SMA,Guru,5
+PMD076,Patricia Palastri,Mandarin,33,Perempuan,Nusa Tenggara Timur,SMP,Wartawan,2
+PMD077,Cemeti Winarno,Mandarin,40,Laki-laki,Maluku,SMP,Wiraswasta,2
+PMD078,Laswi Wibowo,Inggris,31,Laki-laki,Nusa Tenggara Timur,S1,Dokter,3
+PMD079,Prima Prayoga,Jepang,37,Laki-laki,Aceh,SD,Wiraswasta,2
+PMD080,Respati Nainggolan,Jepang,37,Laki-laki,Kota Yogyakarta,SMP,Wiraswasta,2
+PMD081,Nabila Lestari,Inggris,27,Perempuan,Makassar,SMP,Dokter,1
+PMD082,Mila Pudjiastuti,Mandarin,40,Perempuan,Bali,SMP,Pedagang,2
+PMD083,Kamal Saragih,Jepang,22,Laki-laki,Bali,SMA,Guru,1
+PMD084,Gantar Situmorang,Jepang,26,Laki-laki,Samarinda,S2,Guru,1
+PMD085,Nugraha Mustofa,Inggris,39,Laki-laki,Bandung,SMP,Pengusaha,3
+PMD086,Tari Usada,Jepang,30,Laki-laki,Bali,S2,Dokter,1
+PMD087,"Hj. Laila Sitorus, S.Sos",Mandarin,40,Perempuan,Aceh,S2,Wiraswasta,2
+PMD088,Puji Nasyidah,Jepang,36,Perempuan,Maluku,SD,Pengusaha,1
+PMD089,Tirta Uwais,Inggris,37,Laki-laki,Maluku,SD,Wartawan,5
+PMD090,Nova Hariyah,Mandarin,30,Perempuan,Bandung,SMP,Wiraswasta,1
+PMD091,Sakura Nasyiah,Inggris,33,Perempuan,Makassar,SD,PNS,5
+PMD092,Karya Palastri,Mandarin,21,Perempuan,Maluku,S1,Guru,4
+PMD093,Irma Riyanti,Jepang,19,Perempuan,Bali,SMA,Wiraswasta,3
+PMD094,Ulya Oktaviani,Jepang,35,Perempuan,Surabaya,SMP,Dokter,4
+PMD095,H. Candrakanta Andriani,Jepang,25,Laki-laki,Samarinda,S2,Wartawan,1
+PMD096,Zelaya Permata,Jepang,32,Perempuan,Kota Yogyakarta,S1,Pedagang,2
+PMD097,Bambang Prakasa,Inggris,25,Laki-laki,Makassar,SMP,Pedagang,4
+PMD098,Martani Sinaga,Mandarin,26,Laki-laki,Surabaya,SD,Dokter,5
+PMD099,Hasim Mardhiyah,Inggris,26,Laki-laki,Bali,S2,Wiraswasta,3
+PMD100,Wirda Sudiati,Mandarin,40,Perempuan,Maluku,SMA,Pedagang,4
+PMD101,Samiah Nurdiyanti,Mandarin,25,Perempuan,Kota Yogyakarta,SD,Guru,1
+PMD102,Jessica Nababan,Mandarin,38,Perempuan,Bali,S1,Pedagang,4
+PMD103,Ulva Permata,Mandarin,28,Perempuan,Sukabumi,SD,Pengusaha,5
+PMD104,"Arsipatra Agustina, M.TI.",Inggris,39,Perempuan,Jakarta,S1,Guru,1
+PMD105,Bancar Siregar,Mandarin,17,Laki-laki,Makassar,SMP,Dokter,4
+PMD106,Almira Mardhiyah,Mandarin,34,Perempuan,Samarinda,SD,PNS,2
+PMD107,Ibrahim Saputra,Jepang,32,Laki-laki,Bali,SMP,Pedagang,3
+PMD108,Tiara Wijayanti,Jepang,21,Perempuan,Bandung,SMP,Pengusaha,5
+PMD109,Elvina Purnawati,Jepang,17,Perempuan,Kota Yogyakarta,S2,Wiraswasta,4
+PMD110,Dina Prastuti,Mandarin,19,Perempuan,Sukabumi,SMP,Pedagang,5
+PMD111,Wirda Suryono,Mandarin,33,Laki-laki,Nusa Tenggara Timur,S1,PNS,1
+PMD112,Limar Utama,Jepang,40,Laki-laki,Sukabumi,SMP,Pengusaha,3
+PMD113,Ratna Farida,Jepang,17,Perempuan,Jakarta,SMP,Pengusaha,3
+PMD114,Hartaka Ramadan,Inggris,18,Laki-laki,Makassar,SMA,Wiraswasta,3
+PMD115,Azalea Aryani,Inggris,30,Perempuan,Makassar,SMP,Dokter,1
+PMD116,Bambang Namaga,Jepang,38,Perempuan,Bali,S2,Pedagang,3
+PMD117,"Ophelia Mahendra, S.Sos",Jepang,25,Perempuan,Bandung,S2,Pengusaha,2
+PMD118,R. Diana Kusumo,Jepang,37,Perempuan,Samarinda,S2,Guru,4
+PMD119,Devi Novitasari,Jepang,26,Perempuan,Jakarta,SMA,Guru,2
+PMD120,Latika Nasyidah,Inggris,32,Perempuan,Aceh,SMA,Pengusaha,3
+PMD121,Jelita Hasanah,Inggris,28,Perempuan,Maluku,SMP,Guru,1
+PMD122,"Kania Permata, S.Sos",Mandarin,39,Laki-laki,Bandung,S1,Pedagang,1
+PMD123,Fitriani Wijaya,Mandarin,34,Laki-laki,Surabaya,S2,Pengusaha,4
+PMD124,Vinsen Setiawan,Jepang,21,Laki-laki,Nusa Tenggara Timur,SMP,Dokter,4
+PMD125,Hafshah Riyanti,Jepang,31,Perempuan,Jakarta,SMA,PNS,1
+PMD126,"Muhammad Namaga, S.Pt",Mandarin,24,Perempuan,Surabaya,S1,Guru,5
+PMD127,Wawan Saputra,Jepang,18,Laki-laki,Aceh,SD,Dokter,2
+PMD128,Oni Permata,Jepang,28,Perempuan,Bandung,SD,Pedagang,5
+PMD129,Harsana Winarno,Inggris,32,Laki-laki,Nusa Tenggara Timur,SMP,Pedagang,5
+PMD130,Oliva Hakim,Mandarin,31,Laki-laki,Aceh,S1,Guru,3
+PMD131,Malika Wasita,Mandarin,23,Laki-laki,Aceh,S1,Dokter,2
+PMD132,Janet Susanti,Jepang,23,Perempuan,Surabaya,SD,Pedagang,5
+PMD133,Ajimat Simbolon,Jepang,24,Laki-laki,Surabaya,SD,Guru,2
+PMD134,Ghaliyati Nasyiah,Inggris,19,Perempuan,Jakarta,SD,Wiraswasta,3
+PMD135,Warta Suryono,Inggris,26,Laki-laki,Kota Yogyakarta,SMP,Pengusaha,3
+PMD136,Kania Astuti,Jepang,30,Perempuan,Makassar,SMP,Pengusaha,5
+PMD137,"drg. Kamila Yuliarti, M.M.",Mandarin,22,Perempuan,Makassar,S2,Pengusaha,1
+PMD138,"dr. Melinda Lazuardi, S.Pd",Inggris,21,Perempuan,Samarinda,S1,Wiraswasta,4
+PMD139,Dadap Manullang,Jepang,30,Laki-laki,Nusa Tenggara Timur,SD,Wiraswasta,2
+PMD140,Natalia Nugroho,Mandarin,20,Perempuan,Sukabumi,S2,Pengusaha,3
+PMD141,Daruna Saptono,Inggris,23,Laki-laki,Kota Yogyakarta,SMP,Wartawan,5
+PMD142,Karimah Utami,Jepang,22,Perempuan,Makassar,SD,PNS,5
+PMD143,Kurnia Manullang,Jepang,31,Laki-laki,Makassar,SMP,Dokter,3
+PMD144,Ana Laksita,Jepang,38,Perempuan,Samarinda,SD,Guru,3
+PMD145,Warsa Prabowo,Inggris,33,Laki-laki,Bandung,SMA,Pedagang,3
+PMD146,Hana Safitri,Inggris,40,Perempuan,Bandung,SMP,PNS,4
+PMD147,"Dr. Dewi Wahyuni, S.Psi",Mandarin,25,Laki-laki,Sukabumi,S1,Pengusaha,5
+PMD148,Vanya Safitri,Jepang,22,Perempuan,Bandung,SMA,Pengusaha,1
+PMD149,Novi Hassanah,Inggris,36,Perempuan,Jakarta,SMA,Pengusaha,4
+PMD150,Tri Kurniawan,Mandarin,33,Laki-laki,Maluku,SMA,Pedagang,3
+PMD151,Saadat Wibowo,Jepang,27,Laki-laki,Kota Yogyakarta,SMA,Wiraswasta,2
+PMD152,Belinda Rahmawati,Jepang,33,Perempuan,Aceh,SD,PNS,3
+PMD153,Uda Mansur,Inggris,38,Laki-laki,Sukabumi,SMA,Wiraswasta,3
+PMD154,Manah Januar,Mandarin,22,Laki-laki,Sukabumi,S2,PNS,1
+PMD155,"Karna Lestari, M.Kom.",Jepang,39,Laki-laki,Jakarta,S2,Guru,4
+PMD156,Luthfi Mansur,Jepang,39,Laki-laki,Maluku,S2,Guru,1
+PMD157,R.A. Oliva Rahmawati,Mandarin,28,Laki-laki,Bandung,S2,Pedagang,2
+PMD158,Suci Mayasari,Inggris,22,Laki-laki,Bandung,S2,Dokter,2
+PMD159,Dinda Purwanti,Mandarin,32,Perempuan,Samarinda,SD,Dokter,1
+PMD160,Iriana Purnawati,Inggris,20,Laki-laki,Jakarta,S1,Wiraswasta,4
+PMD161,"Sutan Adika Mustofa, S.Kom",Mandarin,21,Laki-laki,Bandung,S2,PNS,2
+PMD162,Ifa Padmasari,Inggris,29,Perempuan,Maluku,SMA,Pedagang,4
+PMD163,Rahayu Hastuti,Jepang,24,Perempuan,Bandung,SMA,Pedagang,4
+PMD164,Kanda Uyainah,Jepang,26,Laki-laki,Sukabumi,S1,Pengusaha,1
+PMD165,Karja Winarno,Inggris,26,Laki-laki,Sukabumi,SMA,Guru,5
+PMD166,Eva Mardhiyah,Mandarin,20,Perempuan,Surabaya,S2,Wiraswasta,5
+PMD167,Titi Astuti,Mandarin,24,Perempuan,Aceh,SD,Wartawan,2
+PMD168,Hairyanto Zulkarnain,Inggris,25,Laki-laki,Nusa Tenggara Timur,SD,PNS,5
+PMD169,"Pranawa Simanjuntak, M.Farm",Inggris,36,Laki-laki,Jakarta,S1,Guru,2
+PMD170,Danuja Rajasa,Inggris,24,Laki-laki,Bandung,SMP,PNS,1
+PMD171,Harsaya Hutagalung,Jepang,33,Laki-laki,Jakarta,SMP,Pengusaha,4
+PMD172,Danu Rajasa,Inggris,36,Laki-laki,Bali,SMA,Dokter,4
+PMD173,Kiandra Farida,Mandarin,27,Perempuan,Surabaya,SMP,Pengusaha,1
+PMD174,Azalea Susanti,Jepang,39,Perempuan,Maluku,SMP,Pengusaha,4
+PMD175,Heryanto Sihombing,Jepang,36,Laki-laki,Maluku,S2,Wartawan,3
+PMD176,Melinda Novitasari,Inggris,37,Perempuan,Kota Yogyakarta,SD,PNS,5
+PMD177,Bambang Haryanto,Jepang,31,Laki-laki,Nusa Tenggara Timur,SMA,Pengusaha,3
+PMD178,Umay Mustofa,Inggris,24,Laki-laki,Bandung,SMA,Wartawan,3
+PMD179,Ana Permata,Jepang,18,Perempuan,Aceh,SMP,Guru,1
+PMD180,Nilam Pradana,Inggris,34,Laki-laki,Jakarta,S1,Dokter,1
+PMD181,Pandu Nashiruddin,Jepang,34,Laki-laki,Surabaya,SMA,Dokter,1
+PMD182,Oni Andriani,Mandarin,18,Perempuan,Sukabumi,SMP,Wartawan,4
+PMD183,"R. Artawan Putra, S.Psi",Inggris,27,Laki-laki,Surabaya,S1,Guru,1
+PMD184,Unjani Andriani,Inggris,31,Laki-laki,Maluku,S1,Wartawan,4
+PMD185,Yance Rahayu,Mandarin,31,Perempuan,Maluku,SMA,Dokter,4
+PMD186,Vivi Purwanti,Jepang,26,Perempuan,Nusa Tenggara Timur,SMP,Pedagang,4
+PMD187,Puji Agustina,Mandarin,25,Perempuan,Nusa Tenggara Timur,SMP,PNS,4
+PMD188,Jasmin Purnawati,Inggris,38,Perempuan,Aceh,SMA,Wartawan,2
+PMD189,Dewi Hariyah,Inggris,23,Perempuan,Samarinda,SD,Dokter,1
+PMD190,Cakrawala Prabowo,Inggris,34,Laki-laki,Nusa Tenggara Timur,SD,PNS,3
+PMD191,Lala Astuti,Mandarin,39,Perempuan,Maluku,SD,Wiraswasta,3
+PMD192,Kasiran Sihombing,Inggris,33,Laki-laki,Aceh,SD,Pedagang,1
+PMD193,Daniswara Widiastuti,Mandarin,34,Laki-laki,Bali,S1,Guru,5
+PMD194,Caket Kurniawan,Inggris,23,Laki-laki,Makassar,SMA,Pedagang,2
+PMD195,Safina Wasita,Mandarin,20,Laki-laki,Surabaya,S1,Dokter,3
+PMD196,Edison Situmorang,Inggris,32,Laki-laki,Surabaya,SMA,PNS,5
+PMD197,Kamidin Pradipta,Inggris,28,Laki-laki,Sukabumi,S2,Wartawan,3
+PMD198,Pranata Wahyudin,Jepang,21,Laki-laki,Bali,SD,Guru,3
+PMD199,Laras Anggriawan,Inggris,23,Laki-laki,Makassar,S2,Dokter,4
+PMD200,"Cinta Setiawan, S.Psi",Mandarin,32,Perempuan,Surabaya,S1,Pedagang,2
+PMD201,Cut Widya Putra,Inggris,26,Perempuan,Makassar,S2,Wiraswasta,1
+PMD202,Yani Agustina,Jepang,18,Laki-laki,Makassar,S1,Dokter,5
+PMD203,"Mila Suwarno, S.E.I",Jepang,40,Perempuan,Kota Yogyakarta,S2,PNS,4
+PMD204,Laras Hidayanto,Jepang,20,Perempuan,Sukabumi,S1,Pengusaha,5
+PMD205,Widya Novitasari,Mandarin,28,Perempuan,Maluku,SMA,Wartawan,4
+PMD206,Maya Wastuti,Jepang,20,Laki-laki,Makassar,S1,Dokter,5
+PMD207,Tari Nashiruddin,Jepang,24,Perempuan,Nusa Tenggara Timur,S2,Wartawan,2
+PMD208,Leo Mayasari,Jepang,40,Laki-laki,Sukabumi,S2,Guru,2
+PMD209,Imam Sihombing,Mandarin,33,Laki-laki,Surabaya,SD,Guru,3
+PMD210,Hani Mandasari,Mandarin,18,Perempuan,Nusa Tenggara Timur,SMA,Guru,1
+PMD211,"R. Ratna Mulyani, S.Gz",Inggris,24,Perempuan,Sukabumi,S1,Pedagang,1
+PMD212,Satya Gunawan,Jepang,38,Laki-laki,Aceh,SMA,Pengusaha,4
+PMD213,Queen Hasanah,Inggris,34,Perempuan,Jakarta,SMA,PNS,3
+PMD214,Rina Mandasari,Jepang,31,Perempuan,Maluku,SMP,Dokter,4
+PMD215,Vanesa Rajata,Mandarin,26,Laki-laki,Makassar,S1,Pengusaha,3
+PMD216,Faizah Rahimah,Mandarin,21,Perempuan,Aceh,SMA,Pengusaha,5
+PMD217,Kamila Handayani,Jepang,19,Perempuan,Samarinda,SMP,Pedagang,3
+PMD218,Rini Usamah,Mandarin,26,Perempuan,Sukabumi,SMP,Wiraswasta,5
+PMD219,Maria Puspita,Mandarin,20,Perempuan,Makassar,SMP,Wiraswasta,5
+PMD220,Diah Winarno,Inggris,35,Laki-laki,Aceh,S2,Guru,3
+PMD221,Ratna Puspita,Jepang,17,Perempuan,Sukabumi,SMP,Dokter,3
+PMD222,"Agnes Purwanti, S.Pt",Jepang,37,Laki-laki,Surabaya,S2,Wiraswasta,5
+PMD223,"drg. Jane Purnawati, S.T.",Inggris,26,Perempuan,Nusa Tenggara Timur,S1,Pengusaha,3
+PMD224,Elma Wijayanti,Jepang,37,Perempuan,Aceh,SD,Pedagang,4
+PMD225,Estiawan Sirait,Inggris,18,Laki-laki,Bali,SMP,Guru,2
+PMD226,Harjasa Latupono,Inggris,35,Laki-laki,Makassar,SMA,Pengusaha,2
+PMD227,Elvina Mandasari,Jepang,19,Perempuan,Maluku,SD,PNS,2
+PMD228,Imam Jailani,Inggris,21,Laki-laki,Aceh,SD,Pengusaha,3
+PMD229,Narji Suwarno,Inggris,32,Laki-laki,Jakarta,SMA,Pedagang,1
+PMD230,Kemal Megantara,Inggris,36,Laki-laki,Makassar,SMP,Dokter,1
+PMD231,Lantar Sihombing,Inggris,28,Laki-laki,Maluku,SMP,Pedagang,1
+PMD232,Tgk. Jatmiko Rajasa,Jepang,24,Laki-laki,Makassar,S1,Wiraswasta,5
+PMD233,Yessi Pudjiastuti,Inggris,19,Laki-laki,Jakarta,S1,Wiraswasta,1
+PMD234,Padma Padmasari,Inggris,26,Perempuan,Kota Yogyakarta,SMA,Pedagang,1
+PMD235,Chelsea Anggraini,Inggris,27,Perempuan,Jakarta,SMA,Pedagang,4
+PMD236,Maya Napitupulu,Jepang,20,Laki-laki,Bali,S1,Guru,3
+PMD237,Syahrini Pertiwi,Mandarin,35,Perempuan,Sukabumi,SMP,PNS,3
+PMD238,Rina Purwanti,Mandarin,22,Perempuan,Aceh,SMA,PNS,1
+PMD239,Talia Mardhiyah,Jepang,17,Perempuan,Nusa Tenggara Timur,SMP,Guru,3
+PMD240,Zulfa Kusmawati,Inggris,21,Perempuan,Maluku,SMA,Guru,2
+PMD241,Bagas Hardiansyah,Mandarin,27,Laki-laki,Bandung,SMA,Guru,3
+PMD242,Edison Hidayat,Mandarin,28,Laki-laki,Aceh,SMA,Dokter,4
+PMD243,Ifa Rahmawati,Jepang,20,Perempuan,Kota Yogyakarta,SD,Guru,4
+PMD244,Winda Iswahyudi,Mandarin,22,Laki-laki,Surabaya,S1,PNS,4
+PMD245,Laila Prastuti,Mandarin,32,Perempuan,Kota Yogyakarta,SMP,Pedagang,5
+PMD246,"T. Wahyu Haryanti, S.I.Kom",Mandarin,24,Perempuan,Surabaya,S1,Wartawan,4
+PMD247,Yahya Sihombing,Mandarin,19,Laki-laki,Jakarta,SMA,Pedagang,4
+PMD248,Argono Budiyanto,Inggris,38,Perempuan,Makassar,S1,PNS,5
+PMD249,Diana Agustina,Jepang,29,Perempuan,Bali,SMP,PNS,4
+PMD250,Jumadi Sinaga,Inggris,24,Laki-laki,Bali,SD,Pedagang,4
+PMD251,Raina Zulaika,Inggris,20,Perempuan,Surabaya,SMA,Pedagang,2
+PMD252,Adiarja Sihombing,Jepang,21,Laki-laki,Kota Yogyakarta,SD,Pedagang,1
+PMD253,Yunita Astuti,Mandarin,17,Perempuan,Makassar,SMA,Wartawan,3
+PMD254,Ajeng Wijayanti,Jepang,31,Perempuan,Nusa Tenggara Timur,SMP,Guru,5
+PMD255,Heru Hakim,Inggris,20,Laki-laki,Maluku,SMP,PNS,2
+PMD256,Maimunah Yulianti,Jepang,26,Perempuan,Jakarta,S2,Pengusaha,1
+PMD257,Jais Hardiansyah,Inggris,36,Perempuan,Surabaya,S2,Pedagang,2
+PMD258,Rama Prasasta,Jepang,30,Laki-laki,Bali,SD,Dokter,4
+PMD259,Ulya Usada,Jepang,18,Perempuan,Bandung,SD,Guru,5
+PMD260,Radit Waluyo,Jepang,32,Laki-laki,Jakarta,SMP,Guru,5
+PMD261,"Adhiarja Pangestu, S.Farm",Inggris,24,Perempuan,Jakarta,S2,Wiraswasta,5
+PMD262,Sadina Mardhiyah,Inggris,36,Perempuan,Surabaya,SMA,Pedagang,3
+PMD263,Victoria Namaga,Mandarin,22,Perempuan,Jakarta,SMP,Wartawan,4
+PMD264,Titin Kuswandari,Inggris,28,Perempuan,Sukabumi,SD,Guru,1
+PMD265,Karsana Permadi,Mandarin,37,Laki-laki,Surabaya,SD,Pedagang,5
+PMD266,Kasim Winarsih,Inggris,24,Laki-laki,Aceh,S2,Pengusaha,2
+PMD267,Ophelia Hariyah,Jepang,37,Perempuan,Sukabumi,SMP,Wiraswasta,5
+PMD268,Cakrajiya Pratama,Inggris,21,Perempuan,Kota Yogyakarta,S1,Wiraswasta,4
+PMD269,Ghaliyati Laksmiwati,Jepang,20,Perempuan,Sukabumi,SD,Wartawan,4
+PMD270,Jamal Hidayanto,Inggris,33,Laki-laki,Bali,SD,Wiraswasta,3
+PMD271,Novi Widiastuti,Mandarin,34,Laki-laki,Sukabumi,S2,Pengusaha,3
+PMD272,Genta Kuswoyo,Inggris,38,Laki-laki,Bandung,S2,Wiraswasta,4
+PMD273,Asmuni Tamba,Mandarin,23,Laki-laki,Kota Yogyakarta,SD,Guru,5
+PMD274,Martana Wibowo,Mandarin,25,Laki-laki,Maluku,S1,Dokter,3
+PMD275,Nabila Novitasari,Mandarin,39,Perempuan,Jakarta,SMP,Wiraswasta,5
+PMD276,Joko Mandasari,Mandarin,31,Laki-laki,Samarinda,S1,Pengusaha,4
+PMD277,Luluh Siregar,Mandarin,38,Laki-laki,Makassar,SD,Wiraswasta,1
+PMD278,"T. Hamzah Pangestu, S.Ked",Mandarin,35,Perempuan,Surabaya,S2,Pengusaha,4
+PMD279,Mitra Yuliarti,Inggris,31,Laki-laki,Nusa Tenggara Timur,S2,Pedagang,5
+PMD280,Hesti Handayani,Mandarin,19,Perempuan,Jakarta,SD,Wiraswasta,5
+PMD281,Tantri Uyainah,Mandarin,29,Perempuan,Samarinda,S2,Pedagang,3
+PMD282,Nalar Nasyidah,Mandarin,26,Perempuan,Kota Yogyakarta,S2,Wartawan,3
+PMD283,Najam Prasetyo,Mandarin,23,Laki-laki,Bali,SMP,Dokter,4
+PMD284,Jane Farida,Mandarin,34,Perempuan,Kota Yogyakarta,SMA,Wartawan,2
+PMD285,Argono Astuti,Inggris,27,Laki-laki,Sukabumi,S1,Dokter,4
+PMD286,Luis Tampubolon,Inggris,32,Laki-laki,Sukabumi,SD,Wiraswasta,3
+PMD287,Wani Mardhiyah,Jepang,17,Laki-laki,Bandung,S2,Wiraswasta,3
+PMD288,Kartika Permadi,Mandarin,30,Laki-laki,Bandung,S2,Wiraswasta,3
+PMD289,Pia Farida,Inggris,27,Perempuan,Makassar,SMP,PNS,4
+PMD290,Padma Hasanah,Mandarin,27,Perempuan,Surabaya,SMP,Wartawan,2
+PMD291,Betania Tarihoran,Inggris,23,Laki-laki,Makassar,S2,Dokter,3
+PMD292,Galur Haryanto,Mandarin,17,Laki-laki,Makassar,SMA,Guru,1
+PMD293,Gara Halimah,Inggris,25,Laki-laki,Makassar,S1,PNS,4
+PMD294,Saiful Sirait,Mandarin,37,Laki-laki,Bandung,S1,Wartawan,2
+PMD295,"Elisa Jailani, S.E.",Mandarin,26,Laki-laki,Kota Yogyakarta,S2,PNS,5
+PMD296,Najam Safitri,Mandarin,19,Perempuan,Nusa Tenggara Timur,S2,Wartawan,4
+PMD297,Artanto Winarno,Jepang,24,Laki-laki,Kota Yogyakarta,SMA,Dokter,5
+PMD298,KH. Lantar Manullang,Jepang,22,Perempuan,Nusa Tenggara Timur,S1,Wiraswasta,2
+PMD299,Taswir Hardiansyah,Jepang,23,Laki-laki,Aceh,SD,PNS,5
+PMD300,Dimas Sirait,Jepang,31,Perempuan,Sukabumi,S1,Pengusaha,1
+PMD301,Rendy Suwarno,Mandarin,24,Laki-laki,Aceh,SD,Pengusaha,2
+PMD302,Talia Rahimah,Inggris,31,Perempuan,Sukabumi,SMP,Dokter,2
+PMD303,Tri Saragih,Inggris,18,Laki-laki,Maluku,SMP,Pedagang,1
+PMD304,Eman Winarno,Jepang,38,Laki-laki,Aceh,SMA,Guru,5
+PMD305,Violet Pertiwi,Jepang,18,Perempuan,Nusa Tenggara Timur,SMP,PNS,2
+PMD306,Tantri Hastuti,Jepang,28,Perempuan,Bali,SD,Dokter,3
+PMD307,Bella Novitasari,Inggris,35,Laki-laki,Bali,S1,Guru,3
+PMD308,"Samiah Hariyah, M.M.",Jepang,26,Laki-laki,Surabaya,S2,Guru,5
+PMD309,Laras Kusmawati,Jepang,29,Perempuan,Surabaya,SD,Wiraswasta,4
+PMD310,Ismail Prasetyo,Jepang,25,Laki-laki,Nusa Tenggara Timur,SMP,Wartawan,4
+PMD311,Syahrini Wulandari,Jepang,35,Perempuan,Aceh,SD,Wiraswasta,3
+PMD312,"Asman Hardiansyah, S.E.",Jepang,26,Perempuan,Nusa Tenggara Timur,S2,Guru,2
+PMD313,Violet Oktaviani,Jepang,18,Perempuan,Bali,SD,PNS,1
+PMD314,Yuni Rahayu,Mandarin,28,Perempuan,Surabaya,SMP,Pengusaha,4
+PMD315,Ifa Lailasari,Inggris,18,Perempuan,Maluku,SD,Wartawan,2
+PMD316,"Kunthara Mandala, S.Farm",Inggris,18,Perempuan,Bali,S1,PNS,5
+PMD317,"Sutan Balamantri Prakasa, S.Psi",Inggris,24,Laki-laki,Bandung,S1,PNS,5
+PMD318,Fitriani Andriani,Mandarin,31,Perempuan,Bali,SD,Wartawan,5
+PMD319,Rini Wastuti,Mandarin,18,Perempuan,Sukabumi,SMA,Wartawan,2
+PMD320,Hilda Puspasari,Mandarin,22,Perempuan,Bandung,SMA,Wiraswasta,4
+PMD321,Irsad Jailani,Jepang,37,Laki-laki,Aceh,SMP,Dokter,3
+PMD322,Gamblang Hidayat,Mandarin,35,Laki-laki,Bali,SMP,PNS,5
+PMD323,Nasim Irawan,Jepang,21,Laki-laki,Makassar,SMP,Wiraswasta,2
+PMD324,Erik Sitompul,Inggris,29,Laki-laki,Nusa Tenggara Timur,SMA,Dokter,5
+PMD325,Banawi Dongoran,Inggris,33,Laki-laki,Jakarta,SMP,PNS,2
+PMD326,Wirda Riyanti,Jepang,24,Perempuan,Makassar,SMA,Pengusaha,2
+PMD327,Aris Wibowo,Mandarin,32,Laki-laki,Makassar,SMP,Pengusaha,5
+PMD328,Wawan Najmudin,Inggris,18,Laki-laki,Bali,SD,Pedagang,4
+PMD329,Dewi Saptono,Jepang,40,Laki-laki,Jakarta,S2,Dokter,1
+PMD330,Respati Suwarno,Inggris,35,Laki-laki,Surabaya,SD,Dokter,3
+PMD331,Akarsana Saefullah,Mandarin,28,Perempuan,Bandung,S2,Dokter,5
+PMD332,Juli Firgantoro,Inggris,36,Perempuan,Maluku,S1,Pedagang,3
+PMD333,Elvin Wahyuni,Mandarin,33,Perempuan,Bandung,S2,Wartawan,5
+PMD334,Edison Damanik,Inggris,34,Laki-laki,Maluku,SMA,Pengusaha,2
+PMD335,Niyaga Mustofa,Mandarin,37,Laki-laki,Aceh,SMA,Dokter,1
+PMD336,Melinda Puspasari,Mandarin,31,Perempuan,Sukabumi,SMA,Pengusaha,2
+PMD337,Candra Prakasa,Jepang,40,Laki-laki,Bandung,SD,PNS,4
+PMD338,Almira Wahyudin,Inggris,36,Laki-laki,Surabaya,S1,Guru,2
+PMD339,Lutfan Sihombing,Inggris,23,Laki-laki,Maluku,SD,Wiraswasta,5
+PMD340,Tiara Aryani,Inggris,28,Perempuan,Maluku,SMA,Dokter,2
+PMD341,Ika Susanti,Jepang,26,Perempuan,Nusa Tenggara Timur,SD,Dokter,4
+PMD342,Umi Laksmiwati,Jepang,34,Perempuan,Aceh,S1,Dokter,5
+PMD343,Jane Purwanti,Jepang,39,Perempuan,Nusa Tenggara Timur,SMP,Pengusaha,5
+PMD344,Eli Wastuti,Jepang,24,Laki-laki,Kota Yogyakarta,S2,Guru,5
+PMD345,Yosef Siregar,Inggris,26,Laki-laki,Maluku,SMA,Dokter,4
+PMD346,Kalim Putra,Jepang,29,Laki-laki,Bali,SMP,Guru,3
+PMD347,Laras Sudiati,Jepang,25,Perempuan,Maluku,SMA,Wiraswasta,3
+PMD348,Icha Melani,Mandarin,24,Laki-laki,Aceh,S1,Guru,1
+PMD349,Heryanto Saragih,Mandarin,30,Laki-laki,Bali,SD,Guru,5
+PMD350,Alika Wahyuni,Jepang,23,Perempuan,Maluku,SMA,Pengusaha,1
+PMD351,Paiman Prayoga,Jepang,23,Laki-laki,Sukabumi,SMP,Pedagang,5
+PMD352,Padmi Wijayanti,Jepang,40,Perempuan,Nusa Tenggara Timur,SMA,Guru,4
+PMD353,Vanya Hasanah,Jepang,30,Perempuan,Bandung,SMP,Wiraswasta,1
+PMD354,Intan Oktaviani,Jepang,35,Perempuan,Aceh,SD,Guru,2
+PMD355,Prabu Sinaga,Jepang,39,Perempuan,Sukabumi,S1,Wiraswasta,4
+PMD356,Ajiono Simbolon,Inggris,36,Laki-laki,Makassar,SD,Pedagang,4
+PMD357,drg. Indah Sihotang,Jepang,31,Perempuan,Surabaya,S1,Wartawan,2
+PMD358,Kamila Hakim,Inggris,31,Laki-laki,Aceh,S1,Wartawan,5
+PMD359,Cakrabuana Habibi,Jepang,30,Laki-laki,Makassar,SD,Wartawan,1
+PMD360,Ir. Maimunah Rahimah,Inggris,40,Perempuan,Makassar,S2,Pedagang,1
+PMD361,Nilam Utami,Mandarin,31,Perempuan,Maluku,SMP,Pengusaha,3
+PMD362,Yahya Nashiruddin,Mandarin,27,Laki-laki,Jakarta,SD,PNS,4
+PMD363,Cemplunk Samosir,Inggris,21,Laki-laki,Samarinda,SD,Guru,5
+PMD364,Anastasia Riyanti,Mandarin,22,Laki-laki,Kota Yogyakarta,S1,Pedagang,4
+PMD365,Purwanto Rahimah,Mandarin,26,Laki-laki,Bali,S2,Pedagang,4
+PMD366,Jaga Budiman,Inggris,33,Laki-laki,Sukabumi,SMA,Wartawan,1
+PMD367,Hamima Hastuti,Inggris,37,Perempuan,Kota Yogyakarta,SMA,Pengusaha,2
+PMD368,Estiawan Yuniar,Jepang,38,Perempuan,Bali,S1,Wartawan,3
+PMD369,Sidiq Siregar,Mandarin,38,Laki-laki,Jakarta,SD,Guru,2
+PMD370,Hana Mardhiyah,Mandarin,38,Perempuan,Sukabumi,SD,PNS,5
+PMD371,Kasusra Sitorus,Jepang,37,Laki-laki,Kota Yogyakarta,SMA,PNS,4
+PMD372,Ega Wacana,Inggris,31,Laki-laki,Bali,SMA,Pedagang,2
+PMD373,Lalita Yuliarti,Mandarin,23,Perempuan,Maluku,SMA,Wartawan,2
+PMD374,Mala Mustofa,Jepang,38,Laki-laki,Nusa Tenggara Timur,S1,PNS,5
+PMD375,Rina Mahendra,Jepang,33,Laki-laki,Sukabumi,S1,Wartawan,1
+PMD376,Jaiman Nababan,Jepang,25,Laki-laki,Aceh,SD,Pedagang,2
+PMD377,"Ismail Saragih, S.Farm",Inggris,32,Perempuan,Bandung,S1,Pengusaha,4
+PMD378,Kezia Mandasari,Inggris,37,Perempuan,Bandung,SMP,Dokter,2
+PMD379,"Tgk. Nugraha Najmudin, S.Farm",Inggris,33,Perempuan,Samarinda,S2,Wiraswasta,5
+PMD380,Waluyo Wibowo,Jepang,25,Laki-laki,Jakarta,SMA,Dokter,1
+PMD381,Estiawan Putra,Jepang,26,Laki-laki,Aceh,SMP,Pengusaha,2
+PMD382,Cager Setiawan,Inggris,20,Perempuan,Aceh,S1,Pedagang,5
+PMD383,Ophelia Rahayu,Mandarin,18,Perempuan,Aceh,SMP,PNS,1
+PMD384,Banawi Hidayanto,Jepang,34,Laki-laki,Makassar,SD,Guru,1
+PMD385,Paiman Tamba,Jepang,19,Laki-laki,Maluku,SMP,Pedagang,4
+PMD386,Putri Hasanah,Mandarin,17,Perempuan,Samarinda,SMP,PNS,4
+PMD387,Tgk. Olga Prasetya,Mandarin,27,Laki-laki,Samarinda,S1,Guru,1
+PMD388,Lutfan Januar,Inggris,29,Laki-laki,Bali,SD,PNS,2
+PMD389,Balamantri Widodo,Inggris,20,Perempuan,Samarinda,S2,Wiraswasta,5
+PMD390,Darimin Simanjuntak,Inggris,25,Laki-laki,Makassar,SMA,Pedagang,3
+PMD391,Pardi Santoso,Inggris,22,Laki-laki,Sukabumi,SMA,Dokter,1
+PMD392,Aris Nainggolan,Inggris,37,Laki-laki,Sukabumi,S2,Pengusaha,3
+PMD393,Raditya Rajata,Mandarin,17,Laki-laki,Surabaya,SD,Guru,5
+PMD394,Anggabaya Wibisono,Mandarin,21,Laki-laki,Nusa Tenggara Timur,SMP,Dokter,3
+PMD395,"Uchita Usamah, S.Kom",Inggris,24,Laki-laki,Makassar,S2,Pengusaha,1
+PMD396,Kiandra Hastuti,Mandarin,34,Perempuan,Sukabumi,SMA,Wiraswasta,3
+PMD397,Ami Winarsih,Mandarin,23,Perempuan,Aceh,SMP,PNS,3
+PMD398,Prayoga Maryadi,Inggris,38,Laki-laki,Bali,SMP,Dokter,4
+PMD399,Gandi Dabukke,Mandarin,26,Laki-laki,Jakarta,SMA,Guru,2
