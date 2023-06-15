@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 def guides_recommendation(tempat_input):
     # get data
-    data = pd.read_csv('ml/guides/local_guide.csv')
+    data = pd.read_csv('local_guide.csv')
 
     # create object TfidfVectorizer
     vectorizer = TfidfVectorizer()
@@ -20,7 +20,7 @@ def guides_recommendation(tempat_input):
     tfidf_matrix = tfidf_matrix_tempat.toarray()
 
     # loads model
-    model = load_model('ml/guides/model_local_guide.h5')
+    model = load_model('model_local_guide.h5')
 
     # Merekomendasikan item berdasarkan Tempat
     def recommend_items(tempat, tfidf_matrix, model, items=data[['Pemandu_ID', 'Nama_Pemandu', 'Optional_Bahasa', 'Umur', 'Jenis_Kelamin', 'Tempat', 'Pendidikan_Terakhir', 'Pekerjaan', 'Nomor_Telepon', 'Price_per_hour', 'Time_duration_in_min', 'Avatars', 'Rating']], k=5):
