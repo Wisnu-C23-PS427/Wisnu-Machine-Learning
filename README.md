@@ -2,7 +2,6 @@
 # Machine Learning repository for Wisata Nusantara
 
 <h2>A machine learning model build with Tensorflow & Scikit-Learn to Recommends Items</h2>
-<h1></h1>
 <p>Hi. this is our repository for our project in capstone project Bangkit 2023 Batch 1. Our team consist of 2 people from Machine Learning Path.
 
 All of the project management we take a place with Github repository, to distinguish each path we create a different repository.</p>
